@@ -13,11 +13,11 @@ I'm a Tech Lead and Full Stack Web3 Developer with 3+ years of experience and pa
 * 🤝  I'm open to collaborating on Daaps, NFT, DeFi, Bots, Blockchains, Web3 Security
 
 
-<a href="https://www.twitter.com/inderpreetsingh1064" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/inderpreetsingh1064?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/Oxinder" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Oxinder?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-<a href="https://www.github.com/inderpreetsingh1064" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/inderpreetsingh1064?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/0xinder" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/0xinder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## My Stack
 
@@ -44,16 +44,16 @@ src="https://img.shields.io/github/followers/inderpreetsingh1064?logo=github&sty
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/inderpreetsingh1064" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/inderpreetsingh1064" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/inderpreetsingh1064/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/inderpreet1064" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/0xinder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/0xinder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/0xinder/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/inderpreet1064" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/inderpreetsingh1064"><img src="https://github-readme-stats.vercel.app/api?username=inderpreetsingh1064&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="inderpreetsingh1064's GitHub stats" /></a>
+<a href="http://www.github.com/0xinder"><img src="https://github-readme-stats.vercel.app/api?username=0xinder&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="0xinder's GitHub stats" /></a>
 
-<a href="http://www.github.com/inderpreetsingh1064"><img src="https://github-readme-streak-stats.herokuapp.com/?user=inderpreetsingh1064&stroke=000000&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=000000&currStreakLabel=0f172a&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/0xinder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xinder&stroke=000000&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=000000&currStreakLabel=0f172a&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/inderpreetsingh1064"><img src="https://activity-graph.herokuapp.com/graph?username=inderpreetsingh1064&bg_color=ffffff&color=000000&line=a855f7&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/0xinder"><img src="https://activity-graph.herokuapp.com/graph?username=0xinder&bg_color=ffffff&color=000000&line=a855f7&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/inderpreetsingh1064" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inderpreetsingh1064&langs_count=10&title_color=0f172a&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/0xinder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xinder&langs_count=10&title_color=0f172a&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
