@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Blockchain Developer
 --------------------------------
 
-I'm a Full Stack Blockchain Developer with 4 years of hands-on experience in blockchain development. My expertise lies in developing secured smart contracts, complex backend systems, web3 frontends & Devops. I have collaborated with cross-functional teams throughout my career to design and implement blockchain-based solutions for various use cases such as Tokenization, GameFi, DeFi, NFTs, Marketplace, Web3 Security, DevSecOps, etc.
+I am a seasoned Full Stack Blockchain Developer with 4 years of in-depth experience in blockchain development. My expertise encompasses the design and implementation of secure smart contracts, sophisticated backend systems, Web3 frontends, and DevOps processes. I have a proven track record of collaborating with cross-functional teams to deliver blockchain-based solutions across diverse domains, including Tokenization, GameFi, DeFi, NFTs, Marketplaces, Web3 Security, and DevSecOps.
 
 * 🌍  I'm based in India, with contributions all around the globe.
 * ✉️  You can contact me at [inderpreetsingh1064@gmail.com](mailto:inderpreetsingh1064@gmail.com)
