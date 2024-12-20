@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Blockchain Developer
 --------------------------------
 
-Blockchain Engineer with 4+ years of in-depth experience in blockchain development. My expertise encompasses the design and implementation of secure smart contracts, sophisticated backend systems, Web3 frontend integrations, and DevOps processes. I have a proven track record of collaborating with cross-functional teams to deliver blockchain-based solutions across diverse domains, including Tokenization, DeFi, NFTs, Marketplaces, Web3 Security, and DevSecOps.
+Blockchain Engineer with 4+ years of experience designing and implementing secure smart contracts, robust backend systems, efficient DevOps pipelines. Skilled in delivering Tokenization, DeFi, NFT Marketplace, DevSecOps and Web3 security solutions.
 
 * 🌍  I'm based in India, with contributions all around the globe.
 * ✉️  You can contact me at [inderpreetsingh1064@gmail.com](mailto:inderpreetsingh1064@gmail.com)
@@ -33,7 +33,20 @@ Blockchain Engineer with 4+ years of in-depth experience in blockchain developme
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/0xinder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/0xinder/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/0xinderpreet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.github.com/0xinder" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/0xinder/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.twitter.com/0xinderpreet" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+  <a href="https://t.me/Oxinder" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" />
+  </a>
+</p>
 
 ### Badges
 
