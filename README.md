@@ -44,7 +44,7 @@ Blockchain Engineer with 4+ years of experience designing and implementing secur
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
   <a href="https://t.me/Oxinder" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/telegram.svg" width="32" height="32" />
   </a>
 </p>
 
