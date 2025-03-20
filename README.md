@@ -47,10 +47,3 @@ Blockchain Engineer with 4+ years of experience designing and implementing secur
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/telegram.svg" width="32" height="32" />
   </a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/0xinder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xinder&stroke=000000&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=000000&currStreakLabel=0f172a&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
