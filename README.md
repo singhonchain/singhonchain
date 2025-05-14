@@ -8,16 +8,13 @@ Blockchain Engineer with 4+ years of experience designing and implementing secur
 
 * 🌍  I'm based in India, with contributions all around the globe.
 * ✉️  You can contact me at [inderpreetsingh1064@gmail.com](mailto:inderpreetsingh1064@gmail.com)
-* 🚀  I'm currently working on [QuillAI Network](https://quillai.network/)
-* 🧠  I'm learning new trends in Blockchain & AI
-* 🤝  I'm open to collaborating on Daaps, NFT, DeFi, Bots, Blockchains, Web3 Security
 
 ## My Stack
 
 - 🎡 **Blockchain:**
   - **Chains:** `EVM Chains` • `Solana`
   - **Programming:** `Solidity` • `JavaScript` • `TypeScript` • `Python`
-  - **Framework:** `Hardhat` • `Foundry` • `Anchor` • `Ethers.js` • `Web3.js`
+  - **Framework:** `Hardhat` • `Foundry` • `Ethers.js` • `Web3.js`
   - **Security:** `Static Analyzers` • `Security Audit` • `Fuzz Testing`
 
 - 🗄️ **Backend/Devops:**
