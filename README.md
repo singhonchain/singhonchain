@@ -4,24 +4,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Blockchain Developer
 --------------------------------
 
-Blockchain Engineer with 4+ years of experience designing and implementing secure smart contracts, robust backend systems, efficient DevOps pipelines. Skilled in delivering Tokenization, DeFi, NFT Marketplace, DevSecOps and Web3 security solutions.
-
-* 🌍  I'm based in India, with contributions all around the globe.
-* ✉️  You can contact me at [inderpreetsingh1064@gmail.com](mailto:inderpreetsingh1064@gmail.com)
+- Blockchain Engineer with 4+ years of experience designing and implementing secure smart contracts, robust backend systems, efficient DevOps pipelines. 
+- Skilled in delivering Tokenization, DeFi, NFT Marketplace, DevSecOps, RWA, DePIN, Decentralised Storage and Web3 security products.
 
 ## My Stack
 
 - 🎡 **Blockchain:**
   - **Chains:** `EVM Chains` • `Solana`
-  - **Programming:** `Solidity` • `JavaScript` • `TypeScript` • `Python`
-  - **Framework:** `Hardhat` • `Foundry` • `Ethers.js` • `Web3.js`
-  - **Security:** `Static Analyzers` • `Security Audit` • `Fuzz Testing`
+  - **Programming:** `Solidity` • `Rust` • `JavaScript` • `TypeScript` • `Python`
+  - **Framework:** `Hardhat` • `Foundry` • `Anchor` • `ethers.js` • `web3.js` • `solana/web3.js`
+  - **Security:** `Static Analysis` • `Security Audit` • `Unit Testing`
 
 - 🗄️ **Backend/Devops:**
-  - **Programming:** `JavaScript` • `TypeScript` • `Python`
+  - **Programming:** `JavaScript` • `TypeScript` • `Python` • `Rust`
   - **Framework:** `Node.js` • `Express.js` • `Django`
   - **Databases:** `MongoDB` • `PostgreSQL` • `MySQL` • `Redis` • `Supabase`
-  - **Devops:** `AWS(ECS, S3, EC2, EBS, ELB, VPC, Lambda, etc)` • `Docker` • `CI/CD` • `Queues(RabbitMQ, Bull)`
+  - **Devops:** `AWS(ECS, S3, EC2, EKS, EBS, ELB, VPC, Lambda, etc)` • `Docker` • `CI/CD` • `Queues(RabbitMQ, Bull)`
 
 - 🖥 **Frontend :**
   - **Programming:** `JavaScript` • `TypeScript`
