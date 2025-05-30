@@ -29,16 +29,16 @@ Lead Blockchain Developer
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/0xinder" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/singhonchain" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/0xinder/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/singhonchain/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="https://www.twitter.com/0xinderpreet" target="_blank" rel="noreferrer">
+  <a href="https://www.twitter.com/singhonchain" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
-  <a href="https://t.me/Oxinder" target="_blank" rel="noreferrer">
+  <a href="https://t.me/singhonchain" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/telegram.svg" width="32" height="32" />
   </a>
 </p>
