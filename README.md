@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Blockchain Developer
 --------------------------------
 
-- Blockchain Engineer with 4+ years of experience designing and implementing secure smart contracts, robust backend systems, efficient DevOps pipelines. 
+- Blockchain Engineer with 5 years of experience designing and implementing secure smart contracts, robust backend systems, efficient DevOps pipelines. 
 - Skilled in delivering Tokenization, DeFi, NFT Marketplace, DevSecOps, RWA, DePIN, Decentralised Storage and Web3 security products.
 
 ## My Stack
